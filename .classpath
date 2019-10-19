@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/omr-master/lib/activation-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/omr-master/lib/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/omr-master/lib/java-mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/omr-master/lib/PDFRenderer-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/omr-master/lib/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANSHUL/Desktop/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
